@@ -1,5 +1,4 @@
 /config/secret/*
-Gemfile.lock
 *.rbc
 *.sassc
 .sass-cache
@@ -19,7 +18,6 @@ rerun.txt
 pickle-email-*.html
 .project
 config/initializers/secret_token.rb
-Gemfile.lock
 config/txgh_config.rb
 .env
 .idea
